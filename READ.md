@@ -1,3 +1,5 @@
-Play drum with keyboard
-written mainly in js
-to see website visit : https://ilialloyd.github.io/drum/
+Play drum with keyboard.
+
+Written mainly in js.
+
+To see website visit : https://ilialloyd.github.io/drum/
